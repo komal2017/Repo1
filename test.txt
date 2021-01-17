@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 14A8-41B7
+
+ Directory of C:\Users\Komal\Desktop\My Project
+
+17/01/2021  02:55 PM    <DIR>          .
+17/01/2021  02:55 PM    <DIR>          ..
+17/01/2021  02:55 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  52,396,724,224 bytes free
